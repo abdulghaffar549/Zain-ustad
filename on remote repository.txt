@@ -1,0 +1,32 @@
+git commit -m "one"
+
+git remote -v
+
+git remote add origin https://github.com/Hamza-Azam/test.git
+
+
+
+
+
+
+
+E:\Web-App-React-Development  Gamica Cloud\GIT\practic1>git branch
+* master
+
+E:\Web-App-React-Development  Gamica Cloud\GIT\practic1>git checkout -b newBranch
+Switched to a new branch 'newBranch'
+
+E:\Web-App-React-Development  Gamica Cloud\GIT\practic1>git branch
+  master
+* newBranch
+
+E:\Web-App-React-Development  Gamica Cloud\GIT\practic1>git checkout  master
+Switched to branch 'master'
+
+E:\Web-App-React-Development  Gamica Cloud\GIT\practic1>git branch
+* master
+  newBranch
+
+E:\Web-App-React-Development  Gamica Cloud\GIT\practic1>git push origin master
+Logon failed, use ctrl+c to cancel basic credential prompt.
+Username for 'https://github.com':

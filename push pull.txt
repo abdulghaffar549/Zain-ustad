@@ -1,0 +1,31 @@
+git branch
+
+git checkout -b newBranch
+
+git checkout  master
+
+git push origin master      
+
+Log in 
+
+git status
+
+git checkout newBranch
+
+Update code
+
+git add .
+
+git commit -m "msg"
+
+git push origin newBranch
+
+git log
+
+git checkout master
+
+git pull origin master			Download 
+
+git show head                             display last commit code
+ 
+git stash save nameFile or . for all files 

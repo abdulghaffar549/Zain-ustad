@@ -1,0 +1,12 @@
+git init
+
+ 
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+git config --global user.email "hamzaazam272727@gmail.com"
+git config --global user.name "Hamza-Azam"
+
+git commit -m "running-car"
+
+Shift+Enter Q-key shift+1=! enter-key to exit vim
